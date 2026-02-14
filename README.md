@@ -1,6 +1,6 @@
 # Mert Gör's Ubuntu Party
 
-![Ubuntu](img/mertgorsubuntuparty.png)
+![Ubuntu](img/mgu.png)
 
 ## License
 
